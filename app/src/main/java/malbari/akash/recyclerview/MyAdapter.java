@@ -25,7 +25,7 @@ public class MyAdapter extends RecyclerView.Adapter<MyAdapter.ViewHolder> {
         images.add(BitmapFactory.decodeResource(context.getResources(), R.drawable.w_wdg3));
         images.add(BitmapFactory.decodeResource(context.getResources(), R.drawable.w_wdg4));
         images.add(BitmapFactory.decodeResource(context.getResources(), R.drawable.w_wdg5));
-        images.add(BitmapFactory.decodeResource(context.getResources(), R.drawable.w_wdg6));
+
 
     }
 
